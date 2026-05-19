@@ -30,7 +30,7 @@ flower==0.9.5
 gevent==1.4.0
 greenlet==0.4.15
 humanize==2.6.0
-idna==2.8
+idna==3.15
 importlib-metadata==0.19
 ipython==7.7.0
 ipython-genutils==0.2.0
