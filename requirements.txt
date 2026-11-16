@@ -23,7 +23,7 @@ django-pyodbc-azure==2.1.0.0
 django-redis==4.10.0
 djangorestframework==3.10.2
 djangorestframework-jwt==1.11.0
-dnspython==1.16.0
+dnspython==2.9.2
 et-xmlfile==1.0.1
 eventlet==0.25.0
 flower==0.9.5
